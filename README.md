@@ -32,3 +32,22 @@ Live Website: https://portfolio-seven-drab-12.vercel.app/
 - Data-Driven Decision Making
 
 
+## Projects
+
+This section will be updated with selected academic, personal, and industry-oriented
+projects demonstrating my technical depth and problem-solving abilities.
+
+## Website Features
+
+- Light and Dark mode toggle
+- Smooth section transitions and animations
+- Responsive design for all screen sizes
+- Clean and minimal UI
+- Modular and scalable code structure
+
+## Tech Stack
+
+- Frontend: React, Vite
+- Styling: CSS / Tailwind CSS
+- Deployment: Vercel
+
