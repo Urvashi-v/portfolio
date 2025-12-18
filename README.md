@@ -1,5 +1,5 @@
-# portfolio
-My name is Urvashi Verma. I am a 3rd year undergraduate student of the department of Chemical Engineering enrolled in its BTech course.
+# Portfolio
+My name is *Urvashi Verma*. I am a 3rd year undergraduate student of the department of Chemical Engineering enrolled in its BTech course.
 
 This is my personal portfolio website showcasing my skills, projects, and experience in Web Development, Machine Learning, Deep Learning, and Software Engineering. I enjoy building scalable, user-centric applications and applying analytical thinking to solve real-world problems.
 
