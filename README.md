@@ -3,7 +3,7 @@ My name is *Urvashi Verma*. I am a 3rd year undergraduate student of the departm
 
 This is my personal portfolio website showcasing my skills, projects, and experience in Web Development, Machine Learning, Deep Learning, and Software Engineering. I enjoy building scalable, user-centric applications and applying analytical thinking to solve real-world problems.
 
-Live Website: [https://portfolio-seven-drab-12.vercel.app/](https://vercel.com/urvashis-projects-41404121/portfolio/9p2B3LQg9eEuZ3wiXt3rmuHCJYEp)
+Live Website: (https://vercel.com/urvashis-projects-41404121/portfolio/9p2B3LQg9eEuZ3wiXt3rmuHCJYEp)
 
 ## Skills & Expertise
 
